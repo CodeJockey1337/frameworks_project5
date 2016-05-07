@@ -3,4 +3,8 @@
 ### Metropolitan State University of Denver - 2016
 ### P. Ross Baldwin
 
-## Angular JS
+## Single Page Web Application
+* Framework: Angular JS
+	* A framework created by Google
+	* https://angularjs.org/
+	* This project implemented in AngularJS version 1.5.5
